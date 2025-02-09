@@ -1,4 +1,4 @@
-# Generate Transcript Project
+# Generate Transcript from Video
 
 ## Overview
 
@@ -66,7 +66,7 @@ generate-transcript/
 
 ## Quick Links 🔗
 
-- 📂 **Repository:** [GitHub Repository](https://github.com/your-username/generate-transcript)
+- 📂 **Repository:** [GitHub Repository](https://github.com/pankajyadav8523/generate-transcript)
 - 📜 **Requirements:** [requirements.txt](./requirements.txt)
 - 🔑 **Environment Setup:** [.env file setup](./.env)
 
